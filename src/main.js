@@ -30,4 +30,4 @@ new Vue({
   render: h => h(App)// 渲染视图 当前的页面
   // render: h => h('router-view')// 渲染视图 新的页面
 })
- router.push('/goods')
+ // router.push('/goods')
